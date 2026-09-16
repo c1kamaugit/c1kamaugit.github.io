@@ -1,0 +1,40 @@
+body {
+    font-family: 'Times New Roman', Times, serif; 
+    margin: 50px;
+    font-size: 30px;
+    color: hsl(0, 66%, 55%);
+    text-align: center;
+    background-size: cover;
+    
+  
+
+  background-position: center center;
+  
+  
+  background-repeat: repeat;
+  
+  
+  background-attachment: fixed;
+  
+  
+  min-height: 10vh;
+  margin: 1;
+}
+
+
+.idk-yet {
+    text-align: center;
+    margin: px;
+}
+
+.line {
+    display: block;
+    margin:50px 50px;
+    border-top: 1px solid rgb(8, 1, 1);
+} 
+
+.footer {
+    text-align: center;
+    font-size: smaller;
+    margin: 0px;
+}
